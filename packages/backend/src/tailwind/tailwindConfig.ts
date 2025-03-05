@@ -64,17 +64,18 @@ const fontSize = {
   8: "9xl",
 };
 
+// disable mapping line height values
 const lineHeight = {
-  0.75: "3",
-  1: "none",
-  1.25: "tight",
-  1.375: "snug",
-  1.5: "normal",
-  1.625: "relaxed",
-  2: "loose",
-  1.75: "7",
-  2.25: "9",
-  2.5: "10",
+  // 0.75: "3",
+  // 1: "none",
+  // 1.25: "tight",
+  // 1.375: "snug",
+  // 1.5: "normal",
+  // 1.625: "relaxed",
+  // 2: "loose",
+  // 1.75: "7",
+  // 2.25: "9",
+  // 2.5: "10",
 };
 
 const letterSpacing = {
